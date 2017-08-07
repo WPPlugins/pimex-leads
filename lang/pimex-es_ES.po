@@ -1,0 +1,43 @@
+# Translation of Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-20 10:29-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0\n"
+"Project-Id-Version: Stable (latest release)\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Language: es\n"
+
+#: ../index.php:44
+msgid ""
+"To use <b>Pimex</b> it is necessary that you have installed and activated "
+"the plugin"
+msgstr ""
+"Para usar <b>Pimex</b> es necesario que tenga instalado y activo el plugin "
+"Contact Form 7"
+
+#: ../index.php:85
+msgid ""
+"Please select a form of Contact form 7 to continue with the activation of "
+"Pimex."
+msgstr ""
+
+#: ../index.php:87
+msgid ""
+"Note: Pimex require that youll replace the names of the fields in the form "
+"by: name, email, phone (if you have), and message."
+msgstr ""
+"Para el correcto funcionamiento de Pimex, es necesario remplazar los "
+"nombres de los campos del formulario por “name”, “email”, “phone” (Si lo "
+"tiene) y “message”, para los otros campos agrega el name como name=“custom-"
+"myfield”, por ejemplo: name=“custom-city”."
+
+#: ../index.php:94
+msgid "Go to my Pimex account"
+msgstr "Ir a mi cuenta de Pimex"

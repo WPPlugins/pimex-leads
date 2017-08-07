@@ -1,0 +1,33 @@
+.container-pimex{
+  width: 400px;
+  margin: 80px auto;
+  overflow: auto;
+  padding: 20px;
+  background: #fff;
+
+}
+.logo-pimex {
+  position: relative;
+  background: #00bfa5;
+  text-align: center;
+  padding: 30px;
+}
+.logo-pimex span {
+  color:#fff;
+}
+
+.pxm-field {
+  width: 100%;
+  min-height: 40px;
+  padding-left: 10px;
+}
+
+#addcustom {
+  margin-top:5px;
+  background: #00b7ad;
+  padding: 1px;
+  color: #fff;
+  font-size:12px;
+  border:none;
+  min-height: 21px;
+}
